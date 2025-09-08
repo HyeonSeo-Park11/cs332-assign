@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="recitations [file:/C:/Users/user/OneDrive%20-%20postech.ac.kr/바탕%20화면/sd/recfun/]" external.linked.project.path="$MODULE_DIR$/../../../../recitations" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="SBT" external.system.module.type="nestedProject" type="JAVA_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="recitations" />
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../recitations">
+      <excludeFolder url="file://$MODULE_DIR$/../../../../recitations/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="progfun-recfun.recitations.main" />
+    <orderEntry type="module" module-name="progfun-recfun.recitations.test" production-on-test="" />
+  </component>
+</module>
