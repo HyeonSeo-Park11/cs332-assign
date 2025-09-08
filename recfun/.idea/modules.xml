@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.main.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/submission/progfun-recfun.progfun-recfun.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/submission/progfun-recfun.progfun-recfun.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.progfun-recfun-build.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.progfun-recfun-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/submission/progfun-recfun.progfun-recfun.main.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/submission/progfun-recfun.progfun-recfun.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/submission/progfun-recfun.progfun-recfun.test.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/submission/progfun-recfun.progfun-recfun.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.recfun-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.recfun-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.recfun-sources.main.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.recfun-sources.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.recfun-sources.test.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.recfun-sources.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/recitations/progfun-recfun.recitations.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/recitations/progfun-recfun.recitations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/recitations/progfun-recfun.recitations.main.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/recitations/progfun-recfun.recitations.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/recitations/progfun-recfun.recitations.test.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/recitations/progfun-recfun.recitations.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.test.iml" filepath="$PROJECT_DIR$/.idea/modules/recfun/progfun-recfun.test.iml" />
+    </modules>
+  </component>
+</project>
