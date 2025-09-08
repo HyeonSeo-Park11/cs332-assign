@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="recfun-sources" external.linked.project.path="$MODULE_DIR$/../../.." external.root.project.path="$MODULE_DIR$/../../.." external.system.id="SBT" external.system.module.type="nestedProject" type="SHARED_SOURCES_MODULE" version="4">
+  <component name="DisplayModuleName">
+    <option name="name" value="recfun-sources" />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="progfun-recfun.recfun-sources.main" />
+    <orderEntry type="module" module-name="progfun-recfun.recfun-sources.test" production-on-test="" />
+  </component>
+</module>
