@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ScalaCompilerConfiguration">
-    <profile name="sbt 1" modules="recfun_3576,recfun_3576.main,recfun_3576.test" />
-  </component>
-</project>
