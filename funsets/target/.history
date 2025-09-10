@@ -1,0 +1,13 @@
+test
+run
+test
+run
+test
+test'
+test
+rtest
+test
+clean
+sbt clean
+clean
+ls target
